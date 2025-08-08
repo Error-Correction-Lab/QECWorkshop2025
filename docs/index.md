@@ -17,15 +17,16 @@ title: "QEC: Scalable Quantum Error Correction Workshop"
 
 The goal of this workshop is to explore scalable quantum error correction techniques for fault-tolerant quantum computing. The event will feature invited talks from researchers and industry leaders at the forefront of this field, as well as a concluding panel discussion focused on identifying key open problems—both foundational and practical—in scaling QEC systems. We will also explore recent results and advances that bring us closer to building scalable and implementable quantum error correction.
 
-## Tentative Schedule
+## Schedule
 
 | Time | Event |
 |------|-------|
-| 10:00 - 12:30 | Invited Talks (Morning Session) |
-| **12:30 - 13:15** | **Lunch Break** |
-| 13:30 - 15:00 | Invited Talks (Afternoon Session) |
-| **15:00 - 15:15** | **Break** |
-| 15:15 - 16:30 | Panel Discussion: Pathways to Scalable QEC |
+| 10:00 - 11:30 | Session 1: 3 Talks × 30 min each (including questions) |
+| **11:30 - 13:00** | **Lunch Break** |
+| 13:00 - 14:30 | Session 2: 3 Talks × 30 min each |
+| **14:30 - 15:00** | **Break** |
+| 15:00 - 15:30 | Session 3: 1 Talk × 30 min |
+| 15:30 - 16:30 | Panel Discussion: Pathways to Scalable QEC |
 | 16:30 - 17:00 | Open Q&A and Networking |
 
 ## Topics Covered
@@ -37,9 +38,15 @@ The goal of this workshop is to explore scalable quantum error correction techni
 - Design tradeoffs: overhead vs. performance
 - Interplay between physical hardware constraints and QEC
 
-## Invited Speakers
+## Tentative Invited Speakers
 
-Speaker list and details will be announced soon.
+- Eddie Schoute or Patrick Rall (IBM)
+- Earl Campbell (Riverlane)
+- John Robinson (QuEra)
+
+- Sunny He (MIT)
+- Chris Pattison (UC Berkeley)
+- Dolev Bluvstein (Harvard)
 
 ## Important Date
 
